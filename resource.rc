@@ -1,0 +1,3 @@
+ship ICON "ship_icon.ico"
+
+#include "wx/msw/wx.rc"
